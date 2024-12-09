@@ -5,7 +5,7 @@ import stock_data as sd
 
 def build_model(X, y):
     """
-    build a linear regression model using sklearn.linear_model
+    build a linear model using sklearn.linear_model
     :param X: Feature dataset
     :param y: label dataset
     :return: a linear regression model
